@@ -1,0 +1,17 @@
+@media only screen and (max-width: 400px)  {
+    .alertbox {
+      width: 100vw;
+      height: 50vh;
+      margin-top: 25vh;
+      margin-left: 0px;
+      margin-right: 0px;
+      padding: 0;
+    }
+    .hideonmobile {
+      display: none;
+    }
+    img {
+      position: absolute;
+    }
+
+}
